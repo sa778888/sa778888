@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arshlaan
 - 👀 I’m interested in Web Development and Competetive Coding...
-- 🌱 I’m currently learning C++, Data Structure and Algorithm
+- 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Reach me at arshlaansid@gmail.com
 
