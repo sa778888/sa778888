@@ -63,42 +63,23 @@
 
 ---
 
-<details open="">
-<summary>
- 📔 GitHub Stats:
-</summary>
-<br>
-<p align="center">
-  <a href="https://github.com/omunite215">
-    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=omunite215&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/omunite215">
-    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omunite215&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="omunite215" /></p>
-</details>
 
 ---
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/om-patel-401068143/">
-   <img align="left" alt=" Om Patel | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  <a href="https://www.linkedin.com/in/arshlaan-siddiquie-06351824b/">
+   <img align="left" alt="  Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:omunite21@gmail.com">
-    <img align="left" alt="Om Patel | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  <a href="arshlaansiddiquie@gmail.com">
+    <img align="left" alt=" Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/_21omp/">
-    <img align="left" alt="Om Patel | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  
+   <a href="https://github.com/sa778888">
+    <img align="left" alt=" Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-   <a href="https://github.com/omunite215">
-    <img align="left" alt="Om Patel | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <a href="https://portfoliobyom.netlify.app/">
-    <img align="left" alt="Om Patel | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
+  <a href="https://sa778888.github.io/portfolio/">
+    <img align="left" alt=" Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
   </a>
   <br>
   
-<p align="right" > Created with 🧡 by <a href="https://github.com/omunite215">Om Patel</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="omunite215" /> </p>
