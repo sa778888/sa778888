@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Arshlaan
-- 👀 I’m interested in Web Development and Competetive Coding...
-- 🌱 I’m currently learning AI and ML
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 Reach me at arshlaansid@gmail.com
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I’m Arshlaan</h1>
 <p align="center">
